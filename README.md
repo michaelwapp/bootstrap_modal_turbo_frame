@@ -3,6 +3,8 @@
 
 This Rails 7.1 project showcases the integration of a Bootstrap Modal (5.x.x) using TurboFrames, providing a dynamic and responsive user interface. The project is built using Ruby 3.2.2 and leverages the power of Hotwire's TurboFrames to update parts of the webpage without a full page reload.
 
+You can finde the corresponding blog post for this project [here](https://michaelwapp.medium.com/integrating-bootstrap-5-modals-with-ruby-on-rails-7-using-turbo-frames-433a59751b33).
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
